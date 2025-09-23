@@ -1,5 +1,5 @@
 # Terms of Service for Noeji
-*Last Updated: July 15, 2025*
+*Last Updated: July 22, 2025*
 
 Welcome to Noeji! These Terms of Service ("Terms") govern your access to and use of the Noeji mobile application, our website located at noeji.com ("Website"), and any related services (collectively, the "Service") provided by RokaByte LLC ("RokaByte," "we," "us," or "our").
 
@@ -35,7 +35,7 @@ Noeji offers different tiers of service:
     - **Auto-Renewal:** Your Pro subscription will automatically renew at the end of each billing cycle unless you cancel it through your app store account settings before the renewal date.
     - **Price Changes:** RokaByte reserves the right to change subscription fees. We will provide you with at least thirty (30) days' advance notice of any fee changes. Your continued use of the Pro Tier after a fee change constitutes your agreement to the new fee.
     - **Cancellations:** You may cancel your Pro subscription at any time. Cancellations will take effect at the end of your current billing period. You will retain Pro access until then.
-    - **No Refunds:** Subscription fees are non-refundable, except as required by applicable law or as determined by Apple or Google's refund policies. No refunds or credits will be provided for partial subscription periods, unused service, or if your account is terminated due to a violation of these Terms. This no-refund policy applies to the maximum extent permitted by applicable law.
+    - **No Refunds:** Subscription fees are non-refundable, except as required by applicable law or as determined by Apple or Google's refund policies. No refunds or credits will be provided for partial subscription periods, unused service, or if your account is terminated due to a violation of these Terms. This no-refund policy applies to the maximum extent permitted by applicable law. This policy is subject to mandatory rights and remedies consumers may have under local law, including as set forth in Section 22 (Jurisdiction-Specific Terms).
     - **Promotions:** We may offer promotional discounts. Any specific terms related to promotions will be disclosed at the time of the offer.
 
 ## 6. User Content and Intellectual Property
@@ -135,6 +135,8 @@ NOEJI IS NOT A BACKUP SERVICE. YOU ARE RESPONSIBLE FOR MAINTAINING YOUR OWN BACK
 
 THE SERVICE IS NOT INTENDED FOR USE IN OR IN CONNECTION WITH ANY HIGH-RISK ACTIVITIES OR ENVIRONMENTS REQUIRING FAIL-SAFE PERFORMANCE, SUCH AS IN THE OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, DIRECT LIFE SUPPORT MACHINES, OR WEAPONS SYSTEMS, IN WHICH THE FAILURE OF THE SERVICE COULD LEAD DIRECTLY TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE ("HIGH-RISK ACTIVITIES"). YOU AGREE NOT TO USE THE SERVICE FOR OR IN CONNECTION WITH ANY HIGH-RISK ACTIVITIES.
 
+For some jurisdictions, these disclaimers may be subject to non-excludable consumer rights, as further detailed in Section 22 (Jurisdiction-Specific Terms).
+
 ## 14. Limitation of Liability
 TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL ROKABYTE LLC, ITS AFFILIATES, DIRECTORS, EMPLOYEES, AGENTS, SUPPLIERS, OR LICENSORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES (EVEN IF ROKABYTE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM:
 
@@ -148,6 +150,8 @@ IN NO EVENT SHALL ROKABYTE'S AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE 
 
 SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
 
+These limitations are subject to any non-excludable liability under applicable local law, as further detailed in Section 22 (Jurisdiction-Specific Terms).
+
 ## 15. Indemnification
 You agree to defend, indemnify, and hold harmless RokaByte LLC and its affiliates, directors, officers, employees, and agents from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees) arising from: (a) your use of and access to the Service; (b) your violation of any term of these Terms; (c) your violation of any third-party right, including without limitation any copyright, property, or privacy right; (d) any claim that your User Content caused damage to a third party or infringed any third party's intellectual property rights; or (e) your use of AI-Generated Content in violation of these Terms or applicable law. This defense and indemnification obligation will survive these Terms and your use of the Service.
 
@@ -159,6 +163,8 @@ Any dispute, claim, or controversy arising out of or relating to these Terms or 
 **YOU AND ROKABYTE AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.**
 
 You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Service or these Terms must be filed within one (1) year after such claim or cause of action arose or be forever barred.
+
+This section is subject to any mandatory local law rights for consumers, as further detailed in Section 22 (Jurisdiction-Specific Terms).
 
 ## 17. U.S. Government Restricted Rights
 If you are a U.S. government entity, our Service is provided with "RESTRICTED RIGHTS." Use, duplication, or disclosure by the U.S. government is subject to restrictions as set forth in FAR 52.227-19 (Commercial Computer Software - Restricted Rights) and DFARS 227.7202 (Rights in Commercial Computer Software or Commercial Computer Software Documentation).
@@ -206,7 +212,23 @@ If you access or download the Service from the Google Play Store, you agree to t
 
 - **Indemnification:** To the extent there is a conflict between the Google Play Developer Distribution Agreement and these Terms with respect to indemnification, the Google Play Developer Distribution Agreement shall take precedence.
 
-## 22. Contact Us
+## 22. Jurisdiction-Specific Terms
+
+For users residing in certain jurisdictions, the following terms apply and shall supersede any conflicting terms in this Agreement to the extent required by applicable law.
+
+**A. Australia and New Zealand**
+
+If you are a consumer as defined by the Australian Consumer Law or the New Zealand Consumer Guarantees Act 1993 ("Consumer Laws"), the following terms apply to you:
+
+1.  **Consumer Guarantees:** The services provided to you under these Terms come with guarantees that cannot be excluded under the Consumer Laws. The provisions of Section 13 (Disclaimers of Warranties) and Section 14 (Limitation of Liability) are subject to your non-excludable rights.
+2.  **Remedies for Breach of Guarantee:** For a major failure of the Service to comply with a consumer guarantee, you are entitled to cancel your subscription and receive a refund for any unused portion. You may also be entitled to compensation for any other reasonably foreseeable loss or damage. For a failure that is not a major failure, we reserve our right to choose to remedy the failure in a reasonable time, which may include repairing or re-supplying the service.
+3.  **Conflict:** The "No Refunds" policy in Section 5 does not limit any rights or remedies you may have for a breach of a consumer guarantee.
+
+**B. Canada**
+
+If you are a consumer residing in Canada, the choice of California law and jurisdiction in Section 16 (Governing Law and Dispute Resolution) will not deprive you of any protection afforded to you by the mandatory provisions of the law of your province of residence.
+
+## 23. Contact Us
 If you have any questions about these Terms, please contact us at:
 
 RokaByte LLC
