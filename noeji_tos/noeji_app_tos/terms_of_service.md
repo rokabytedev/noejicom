@@ -1,5 +1,5 @@
 # Terms of Service for Noeji
-*Last Updated: July 22, 2025*
+*Last Updated: Sep 22, 2025*
 
 Welcome to Noeji! These Terms of Service ("Terms") govern your access to and use of the Noeji mobile application, our website located at noeji.com ("Website"), and any related services (collectively, the "Service") provided by RokaByte LLC ("RokaByte," "we," "us," or "our").
 
@@ -216,7 +216,7 @@ If you access or download the Service from the Google Play Store, you agree to t
 
 For users residing in certain jurisdictions, the following terms apply and shall supersede any conflicting terms in this Agreement to the extent required by applicable law.
 
-**A. Australia and New Zealand**
+**22.1. Australia and New Zealand**
 
 If you are a consumer as defined by the Australian Consumer Law or the New Zealand Consumer Guarantees Act 1993 ("Consumer Laws"), the following terms apply to you:
 
@@ -224,7 +224,7 @@ If you are a consumer as defined by the Australian Consumer Law or the New Zeala
 2.  **Remedies for Breach of Guarantee:** For a major failure of the Service to comply with a consumer guarantee, you are entitled to cancel your subscription and receive a refund for any unused portion. You may also be entitled to compensation for any other reasonably foreseeable loss or damage. For a failure that is not a major failure, we reserve our right to choose to remedy the failure in a reasonable time, which may include repairing or re-supplying the service.
 3.  **Conflict:** The "No Refunds" policy in Section 5 does not limit any rights or remedies you may have for a breach of a consumer guarantee.
 
-**B. Canada**
+**22.2. Canada**
 
 If you are a consumer residing in Canada, the choice of California law and jurisdiction in Section 16 (Governing Law and Dispute Resolution) will not deprive you of any protection afforded to you by the mandatory provisions of the law of your province of residence.
 
