@@ -1,6 +1,6 @@
 # Privacy Policy for Noeji
 
-**Last Updated:** July 15, 2025
+**Last Updated:** Sep 25, 2025
 
 RokaByte LLC ("RokaByte," "we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Noeji mobile application, our website located at noeji.com ("Website"), and related services (collectively, the "Service").
 
@@ -76,6 +76,7 @@ We do not sell your personal information. Noeji does not currently display third
 *   **Passcode Security:** As stated in our Terms of Service, you are responsible for your passcode. It is not stored by us in a recoverable format.
 *   **Your Role in Security:** In addition to the security measures we implement, the security of your information also depends on you. You are responsible for keeping your account credentials (including your social login details and any app-specific passcode) confidential and for using secure practices when accessing the Service.
 *   **Limitations:** Despite our efforts, no security measures are perfect or impenetrable. We cannot guarantee the absolute security of your information. Any transmission of information is at your own risk.
+*   **Data Breach Notification:** In the event of a data breach that is likely to result in a real risk of harm to individuals, we will investigate the matter and notify the affected individuals and relevant authorities as required by applicable law.
 
 ## 5. Data Retention
 
@@ -87,7 +88,7 @@ We retain your personal information for as long as your account is active or as 
 
 ## 6. Your Rights and Choices
 
-Depending on your location and applicable law, you may have certain rights regarding your personal information. For US users, these may include:
+You have certain rights and choices regarding your personal information, which you can exercise as described below. Depending on your jurisdiction (such as Australia, Canada, or New Zealand), you may have additional legal rights, which are detailed in Section 10.
 
 *   **Access and Update:** Accessing and Updating Your Information: You can access and update information that you create and store directly within Noeji, such as your ideabook names. The name and email address associated with your Google or Apple login are provided by those services. While you cannot change this information directly through Noeji, updates made in your Google or Apple account will generally be reflected in your Noeji profile upon subsequent logins. You can manage app connections and data sharing through your respective Google or Apple account settings.
 *   **Delete User Content:** You can delete your ideabooks, ideas, and notes within the app. Deleting an ideabook will also delete its associated ideas and notes.
@@ -117,9 +118,38 @@ The Service may contain links to third-party websites or services that are not o
 
 We may update this Privacy Policy from time to time. If we make changes we determine to be material, we will endeavor to notify you before such changes become effective. Notification methods may include updating the "Last Updated" date at the top of this policy, providing notice through the Service (such as a pop-up or announcement), or, where we deem it appropriate for significant changes or if required by applicable law, by sending a notification to your registered email address. The timing and method of notice will be at our reasonable discretion, taking into account the nature of the changes and applicable legal requirements. We encourage you to review this Privacy Policy periodically to stay informed about our information practices. Your continued use of the Service after any changes to this Privacy Policy become effective constitutes your acceptance of such changes.
 
-## 10. Contact Us
+## 10. Jurisdiction-Specific Provisions
 
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+The following provisions apply to users located in the specific jurisdictions listed below and are intended to supplement the terms in the main body of this Privacy Policy. In the event of a conflict between this Section 10 and the rest of the Privacy Policy, this Section 10 shall control for users in the applicable jurisdiction.
 
-RokaByte LLC
-Email: support@rokabyte.com
+### 10.1. International Data Transfers (For All Users Outside the United States)
+
+Our Service is operated from the United States. If you are located outside of the United States, please be aware that the information we collect, including your Personal Data and User Content, will be transferred to, processed, and stored in the United States.
+
+The data protection laws in the United States may differ from those in your country of residence and may not provide the same level of protection. **By using the Service and acknowledging this Privacy Policy, you expressly consent to the transfer of your personal information to the United States and its processing there in accordance with this policy.** We take steps to ensure that your data is treated securely, including by entering into appropriate data processing agreements with our service providers.
+
+### 10.2. Users in Australia, New Zealand, and Canada
+
+If you are a resident of Australia, New Zealand, or Canada, you have the following additional rights under your respective privacy laws (Australia's *Privacy Act 1988*, New Zealand's *Privacy Act 2020*, and Canada's *Personal Information Protection and Electronic Documents Act* (PIPEDA)):
+
+*   **Right to Access:** You have the right to request confirmation as to whether we are processing your personal information and to request a copy of the personal information that RokaByte holds and controls in its systems.
+*   **Right to Correction:** You have the right to request that we correct any inaccurate, incomplete, or out-of-date personal information we hold about you.
+
+**How to Exercise Your Rights:** To exercise your right to access or correct your data, please submit a written request to our Privacy Officer using the contact details in Section 11. For your protection, we will need to verify your identity before processing your request. We will respond to your request within the timeframes required by applicable law (typically within 30 days).
+
+**Limitations:**
+*   **Third-Party Services:** These rights apply to the personal information under our direct control (such as your User Content in our database). For personal data that may be held by our third-party service providers (such as Google, Apple, or RevenueCat), you will need to consult their respective privacy policies and contact them directly.
+*   **Anonymized Data:** These rights do not apply to anonymized or aggregated data that can no longer be used to identify you.
+
+**Right to Lodge a Complaint:** If you believe we have not complied with your privacy rights, we encourage you to contact our Privacy Officer first so we can attempt to resolve the issue. However, you also have the right to lodge a complaint with the relevant regulatory authority in your country:
+*   **In Australia:** The Office of the Australian Information Commissioner (OAIC).
+*   **In New Zealand:** The Office of the Privacy Commissioner (OPC).
+*   **In Canada:** The Office of the Privacy Commissioner of Canada (OPC).
+  
+## 11. Contact Us and Privacy Officer
+
+If you have any questions or concerns about this Privacy Policy or our data practices, or if you wish to exercise your rights regarding your personal information, please contact us. We have appointed a Privacy Officer to oversee our compliance with this Privacy Policy.
+
+RokaByte LLC  
+**Attn: Privacy Officer**  
+**Email:** support@rokabyte.com
